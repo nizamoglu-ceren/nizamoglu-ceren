@@ -36,13 +36,13 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 
 ## 📚 Education
 - 🎓 **Yildiz Technical University** *(2022 - Present)*
-- 
+  
    Department of Molecular Biology and Genetics
   
    GPA: 3.23
   
 - 🏫 **75.Year Science High School** *(2017 - 2021)*
-- 
+  
    Grade: 92.75
 ---
 
@@ -55,11 +55,13 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 
 ## 🎯 Projects
 - **Research Project** *(Dec 2024 - Present)*
+  
   Working on plant polyphenol encapsulation methods to enhance efficacy and bioavailability.
 ---
 
 ## 🌍 International Experience
 - **Erasmus+ Training Course** - Norway *(Aug 2023 - Sep 2023)*
+  
   Participated in "Inclusion for Youth" project.
 ---
 
