@@ -17,9 +17,9 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 ---
 
 ## 💼 Professional Experience
-- **Summer Intern** @Istanbul University Bioinformatics Laboratory *(Aug 2024 - Sep 2024)*
-- **Undergraduate Intern** @Istanbul University Bioinformatics Laboratory *(Mar 2024 - Apr 2024)*
-- **Teacher** @Inekle *(Aug 2022 - Jul 2024)*
+- **Summer Intern** | Istanbul University Bioinformatics Laboratory *(Aug 2024 - Sep 2024)*
+- **Undergraduate Intern** | Istanbul University Bioinformatics Laboratory *(Mar 2024 - Apr 2024)*
+- **Teacher** | Inekle *(Aug 2022 - Jul 2024)*
 ---
 
 ## 🛠 Technical Skills
