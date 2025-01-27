@@ -1,11 +1,11 @@
 # Hi there, I'm Ceren 👩‍🔬
 
-A Molecular Biology and Genetics student with a keen interest in Bioinformatics, driven by a passion for integrating biological knowledge with computational methodologies.
+**A Molecular Biology and Genetics student with a keen interest in Bioinformatics, driven by a passion for integrating biological knowledge with computational methodologies.**
 ---
 
 ## 🥼 About Me 
 
-As a student with an interest in bioinformatics, I focus on bridging the gap between biology and computer science. I have gained experience in genomic analysis and data visualization, and I aim to contribute to scientific research through computational approaches.
+**As a student with an interest in bioinformatics, I focus on bridging the gap between biology and computer science. I have gained experience in genomic analysis and data visualization, and I aim to contribute to scientific research through computational approaches.**
 ---
 
 ## 📫 Contact
