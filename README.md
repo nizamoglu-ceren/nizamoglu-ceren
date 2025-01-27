@@ -11,15 +11,15 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 ---
 
 ## 📫 Contact
-- **LinkedIn:** (www.linkedin.com/in/ceren-nizamoğlu-83a523216)
+- **LinkedIn:** www.linkedin.com/in/ceren-nizamoğlu-83a523216
 - **Email:** nizamogluceren@gmail.com
 - **Phone:** +90 553 521 79 37
 ---
 
 ## 💼 Professional Experience
-- **Summer Intern** @[Istanbul University Bioinformatics Laboratory] *(Aug 2024 - Sep 2024)*
-- **Undergraduate Intern** @[Istanbul University Bioinformatics Laboratory] *(Mar 2024 - Apr 2024)*
-- **Teacher** @[Inekle] *(Aug 2022 - Jul 2024)*
+- **Summer Intern** @Istanbul University Bioinformatics Laboratory *(Aug 2024 - Sep 2024)*
+- **Undergraduate Intern** @Istanbul University Bioinformatics Laboratory *(Mar 2024 - Apr 2024)*
+- **Teacher** @Inekle *(Aug 2022 - Jul 2024)*
 ---
 
 ## 🛠 Technical Skills
