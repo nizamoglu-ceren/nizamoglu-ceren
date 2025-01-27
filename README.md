@@ -44,7 +44,7 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 
 ## 🌱 Volunteering & Organizations
 - **ISCB - RSG** - Active Member *(Dec 2023 - Aug 2024)*
-- **Yildiz Technical University** - BİYOGEN - Organisation Coordinator *(Jan 2022 - Jun 2024)*
+- **Yildiz Technical University (BİYOGEN)** - Organisation Coordinator *(Jan 2022 - Jun 2024)*
 - **Community Volunteers Foundation (TOG)** - Volunteer *(Feb 2023 - Present)*
 - **Yildiz Technical University** - Peer Counselor *(Oct 2023 - Mar 2024)*
 ---
