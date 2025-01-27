@@ -36,10 +36,10 @@ As a student with an interest in bioinformatics, I focus on bridging the gap bet
 
 ## 📚 Education
 - 🎓 **Yildiz Technical University** *(2022 - Present)*
-  Department of Molecular Biology and Genetics
-  GPA: 3.23
+   Department of Molecular Biology and Genetics
+   GPA: 3.23
 - 🏫 **75.Year Science High School** *(2017 - 2021)*
-  Grade: 92.75
+   Grade: 92.75
 ---
 
 ## 🌱 Volunteering & Organizations
